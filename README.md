@@ -23,12 +23,6 @@
 | Project | What it does | Tools |
 |---|---|---|
 | 🛒 [Amazon Laptop Market Analysis](https://github.com/kadamsharayuBVCOEW/Amazon-Laptop-Market-Analysis) | Scraped/analyzed laptop listings to uncover pricing trends and market positioning | Python, pandas |
-| 📉 [SaaS Customer Churn Analysis](https://github.com/kadamsharayuBVCOEW/SaaS_Customer_Churn_Analysis) | Identified key drivers of customer churn and built a Power BI dashboard for retention insights | SQL, Power BI |
-| 🌫️ [AQI Data Analysis](https://github.com/kadamsharayuBVCOEW/AQI_Data_Analysis) | Explored air quality index data to find pollution trends across regions/time | Python, Jupyter |
-| 🏢 [Corporate HR SQL Analysis](https://github.com/kadamsharayuBVCOEW/Corporate-HR-SQL-Analysis) | Wrote SQL queries to answer HR business questions: attrition, salary trends, headcount | SQL |
-| 🛍️ [E-commerce Analysis](https://github.com/kadamsharayuBVCOEW/E-commerce) | End-to-end analysis of e-commerce sales data to surface revenue and customer insights | SQL / Excel |
-
-*(Edit the "What it does" column to match what each project actually does — I wrote my best guess from the repo names. Tell me the real details and I'll correct these.)*
 
 ---
 
